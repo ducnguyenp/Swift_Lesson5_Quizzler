@@ -2,6 +2,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Quizzler
+![App Brewery Banner](Documentation/pic.png)
 
 ## Our Goal
 
